@@ -13,7 +13,7 @@ public class SettingEnvirounment extends ConsoleControl  {
 		justWait();
 		
 	}
-
+//shanmu
 	public static void loginToProduct() {
 		
 		WebElement userName=driver.findElement(By.xpath("//input[@id='j_username']"));
